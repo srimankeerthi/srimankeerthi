@@ -17,7 +17,7 @@ I’m Keerthi — a backend-focused developer building real-world systems and pr
 
 A production-style system that tracks API health, latency, and failures with automated alerting
 **Tech:** Node.js, Redis, MongoDB
-👉 https://github.com/srimankeerthi/Smart_api_monitor_
+👉 https://github.com/srimankeerthi/Smart_api_monitor
 
 ---
 
