@@ -2,14 +2,6 @@
 
 I’m Keerthi — a backend-focused developer building real-world systems and practical tools.
 
-* 🔭 I’m currently working on **backend systems like API monitoring and automation tools**
-* 🌱 I’m currently learning **DSA (Striver A2Z), system design basics, and AI integration**
-* 👯 I’m looking to collaborate on **backend or AI-driven projects**
-* 🤔 I’m looking for help with **improving system design and scalable architectures**
-* 💬 Ask me about **Node.js, FastAPI, APIs, and backend projects**
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keerthi-spg/)
-
----
 
 ## 🔥 Featured Projects
 
