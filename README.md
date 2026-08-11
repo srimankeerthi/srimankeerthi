@@ -8,17 +8,9 @@ Building backend systems, APIs & AI-powered applications.
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srimankeerthi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -34,97 +26,81 @@ Building backend systems, APIs & AI-powered applications.
 
 </div>
 
-<br>
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=srimankeerthi&theme=transparent&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,express,fastapi,spring,react,mongodb,postgresql,redis,docker,git,github,postman" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-<h3 align="center">💊 VerifyRX</h3>
+### 💊 VerifyRX
 
-<p align="center">
 Verification & anti-fraud platform.
-</p>
 
-<p align="center">
+`Node.js`  
+`Express`  
+`MongoDB`  
+`JWT`
 
-<b>Node.js</b> •
-<b>Express</b> •
-<b>MongoDB</b> •
-<b>JWT</b>
-
-</p>
-
-<p align="center">
+<br>
 
 <a href="YOUR_VERIFYRX_REPO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
-</p>
+**View Project →**
+
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-<h3 align="center">📡 API Tracker</h3>
+### 📡 API Tracker
 
-<p align="center">
-Monitor and track API performance.
-</p>
+API monitoring & performance tracking system.
 
-<p align="center">
+`JavaScript`  
+`Node.js`  
+`REST API`
 
-<b>JavaScript</b> •
-<b>Node.js</b> •
-<b>REST API</b>
-
-</p>
-
-<p align="center">
+<br>
 
 <a href="YOUR_API_TRACKER_REPO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
-</p>
+**View Project →**
+
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-<h3 align="center">🦖 Chrome Dino</h3>
+### 🦖 Chrome Dino
 
-<p align="center">
-A recreation of the classic Chrome Dino game.
-</p>
+Recreation of the classic Chrome Dino game.
 
-<p align="center">
+`HTML`  
+`CSS`  
+`JavaScript`
 
-<b>HTML</b> •
-<b>CSS</b> •
-<b>JavaScript</b>
-
-</p>
-
-<p align="center">
+<br>
 
 <a href="YOUR_CHROME_DINO_REPO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
-</p>
+**View Project →**
+
+</a>
 
 </td>
 
@@ -133,24 +109,17 @@ A recreation of the classic Chrome Dino game.
 
 ---
 
-# 👩‍💻 About Me
-
-I'm a Computer Science Engineering student focused on becoming a
-**Backend + AI Engineer**.
-
-I like building practical software and understanding how things work
-behind the scenes — from APIs and databases to authentication,
-machine learning and system architecture.
+## 👩‍💻 About Me
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  Focus        Backend Engineering + AI              │
-│                                                     │
-│  Learning     DSA • System Design • Backend         │
-│                                                     │
-│  Building     APIs • AI Applications • SaaS         │
-│                                                     │
-│  Goal         Become a strong Software Engineer     │
-│                                                     │
+Backend + AI Engineer in the making.
+
+Currently focused on:
+
+→ Data Structures & Algorithms
+→ Backend Engineering
+→ REST APIs & Databases
+→ System Design
+→ AI Engineering
+→ Building real-world projects
 └─────────────────────────────────────────────────────┘
