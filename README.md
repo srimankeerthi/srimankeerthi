@@ -1,105 +1,158 @@
-## Hi there 👋
+# 👋 Hey, I'm Keerthi
 
-I’m Keerthi — a backend-focused developer building real-world systems and practical tools.
+### Backend Engineer • AI Engineer • Problem Solver
 
+I build **backend systems, APIs, and AI-powered applications** with a focus on turning ideas into reliable, real-world products.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+## ⚡ GitHub at a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srimankeerthi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimankeerthi&layout=compact&theme=transparent&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srimankeerthi&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+```text
+Backend Systems       → REST APIs • Authentication • CRUD • Databases
+AI Applications       → ML Models • AI Integration • Intelligent Systems
+Software Engineering  → DSA • OOP • System Design • Problem Solving
+Developer Tools       → Git • GitHub • Postman • Docker
+```
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+---
 
 ## 🔥 Featured Projects
 
-### [🚦 Smart API Monitor]
+### 🛡️ Welfare Shield
 
-A production-style system that tracks API health, latency, and failures with automated alerting
-**Tech:** Node.js, Redis, MongoDB
-👉 https://github.com/srimankeerthi/Smart_api_monitor
+**AI-powered public fund monitoring platform**
 
----
+Detects potential welfare fund leakage using machine learning and risk analysis.
 
-### [🛠️ Drawing Scrutiny Tool]
+**Built with:** React • FastAPI • XGBoost • MongoDB
 
-OCR-based system to extract and validate parameters from engineering drawings
-**Tech:** Python, FastAPI, Tesseract OCR
-👉 https://github.com/srimankeerthi/Drawing_Scrutiny_Tool
+**Highlights**
 
----
+* 🤖 AI-powered anomaly detection
+* 📊 Risk scoring & visualization
+* 🗺️ District and village-level investigation
+* 🔐 Secure authentication
 
-### [📜 QR Certificate Generator]
-
-Full-stack system for generating and verifying certificates using QR authentication
-**Tech:** Next.js, FastAPI
-👉 https://github.com/srimankeerthi/Qr_Certificate_generator
+[View Project →](YOUR_WELFARE_SHIELD_REPO)
 
 ---
 
-## 💼 Experience
+### 💊 VerifyRX
 
-### Software Engineer Intern — Skycrm
+**Certificate / medicine verification & anti-fraud system**
 
-Mar 2026 – Present
+A verification platform designed to help identify potentially fraudulent or invalid records.
 
-* Working on backend development and real-world system features
-* Building scalable API workflows
+**Built with:** Node.js • Express.js • MongoDB • JWT
 
----
-
-### AI Model Trainee — TAO Digital Solutions
-
-Feb 2026 – Mar 2026
-
-* Worked on AI/ML tasks including data handling and model-level understanding
-* Exposure to real-world ML workflows
+[View Project →](YOUR_VERIFYRX_REPO)
 
 ---
 
-### Full Stack Engineer Intern — Codec Technologies India
+### 🌾 Farm Expense Tracker
 
-Jan 2026 – Feb 2026
+**Agriculture-focused expense management system**
 
-* Developed full-stack features and integrated backend APIs
-* Improved frontend-backend communication
+Helps farmers track and manage agricultural expenses in a simple interface.
 
----
+**Built with:** JavaScript • Node.js • MongoDB
 
-### Software Engineering Virtual Experience — Walmart Global Tech USA
-
-Sep 2024 – Dec 2024
-
-* Implemented optimized data structures in Java
-* Designed UML and ER diagrams
-
----
-
-### Software Engineering Virtual Experience — J.P. Morgan
-
-Jul 2024 – Sep 2024
-
-* Worked on financial data visualization
-* Built interactive dashboards using Perspective
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, JavaScript
-**Backend:** Node.js, Express, FastAPI
-**Databases:** MongoDB, Redis
-**Concepts:** REST APIs, Caching, Background Jobs, System Design Basics
+[View Project →](YOUR_FARM_EXPENSE_REPO)
 
 ---
 
 ## 🏆 Achievements
 
-* 🥈 2nd Place – ACM Hackathon (Welfare Shield)
-* 🥈 2nd Place – Hackathon (Need Now Platform)
+🥈 **2nd Place — ACM Hackathon**
+Built *Welfare Shield*, an AI-powered welfare monitoring platform.
+
+🎓 **Foundation for Excellence Scholar**
+
+💻 **Software Development Intern**
 
 ---
 
-## 🌍 Open Source
+## 📈 Contribution Activity
 
-* Actively contributing to personal and collaborative repositories
-* Improving project structure, documentation, and code quality
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srimankeerthi&theme=github-compact&hide_border=true" width="95%"/>
+</p>
 
 ---
 
-⚡ **Focus:** Backend Engineering Internships → transitioning into AI-driven systems
+## 🎯 Currently
+
+```text
+▸ Strengthening Data Structures & Algorithms
+▸ Building production-ready backend systems
+▸ Learning System Design
+▸ Exploring AI engineering
+▸ Building projects that solve real problems
+```
+
 ---
 
+## 💭 My Engineering Philosophy
+
+> Build it. Break it. Understand why.
+> Then build it better.
+
+---
+
+<p align="center">
+  <b>Let's build something meaningful.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srimankeerthi&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
